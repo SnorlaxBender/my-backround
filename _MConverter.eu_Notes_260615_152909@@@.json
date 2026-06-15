@@ -1,41 +1,41 @@
 {
-"name": "Darkened Acid AMOLED (Firewatch)",
-"description": "AMOLED black layout overlaying a custom Firewatch background.",
-"authors": [
-{
-"name": "Oreo"
-}
- ],
-"spec": 2,
-"semanticColors": {
-"HEADER_PRIMARY": ["#a3e635"],
-"HEADER_SECONDARY": ["#84cc16"],
-"TEXT_NORMAL": ["#ffffff"],
-"TEXT_MUTED": ["#9ca3af"],
-"TEXT_LINK": ["#a3e635"],
-"INTERACTIVE_NORMAL": ["#d1d5db"],
-"INTERACTIVE_HOVER": ["#ffffff"],
-"INTERACTIVE_ACTIVE": ["#a3e635"],
-"BACKGROUND_PRIMARY": ["#000000a6"],
-"BACKGROUND_SECONDARY": ["#000000cc"],
-"BACKGROUND_SECONDARY_ALT": ["#000000f2"],
-"BACKGROUND_TERTIARY": ["#000000cc"],
-"BACKGROUND_FLOATING": ["#000000"],
-"BACKGROUND_MOBILE_PRIMARY": ["#000000a6"],
-"BACKGROUND_MOBILE_SECONDARY": ["#000000cc"],
-"CHAT_BACKGROUND": ["#000000a6"]
-},
-"rawColors": {
-"PRIMARY_100": "#ffffff",
-"PRIMARY_600": "#000000",
-"PRIMARY_630": "#000000",
-"PRIMARY_700": "#000000",
-"PRIMARY_800": "#000000",
-"BRAND_500": "#a3e635"
-},
-"background": {
-"url": "https://raw.githubusercontent.com/SnorlaxBender/my-backround/main/firewatch-v0-c3hx3gdkzda21.jpg",
-"blur": 0,
-"alpha": 0.6
-}
+  "name": "Darkened Acid AMOLED (Fixed Firewatch)",
+  "description": "True AMOLED black layout with custom Firewatch background.",
+  "authors": [
+    {
+      "name": "Oreo"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#a3e635"],
+    "HEADER_SECONDARY": ["#84cc16"],
+    "TEXT_NORMAL": ["#ffffff"],
+    "TEXT_MUTED": ["#9ca3af"],
+    "TEXT_LINK": ["#a3e635"],
+    "INTERACTIVE_NORMAL": ["#d1d5db"],
+    "INTERACTIVE_HOVER": ["#ffffff"],
+    "INTERACTIVE_ACTIVE": ["#a3e635"],
+    "BACKGROUND_PRIMARY": ["#000000"],
+    "BACKGROUND_SECONDARY": ["#000000"],
+    "BACKGROUND_SECONDARY_ALT": ["#000000"],
+    "BACKGROUND_TERTIARY": ["#000000"],
+    "BACKGROUND_FLOATING": ["#000000"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#000000"],
+    "CHAT_BACKGROUND": ["#000000"]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#ffffff",
+    "PRIMARY_600": "#000000",
+    "PRIMARY_630": "#000000",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_800": "#000000",
+    "BRAND_500": "#a3e635"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/SnorlaxBender/my-backround/main/firewatch-v0-c3hx3gdkzda21.jpg",
+    "blur": 0,
+    "alpha": 1.0
+  }
 }
