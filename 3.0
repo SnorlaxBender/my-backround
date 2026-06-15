@@ -1,0 +1,131 @@
+{
+  "name": "ClearVision v1.2.6",
+  "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
+  "authors": [
+    {
+      "name": "Taki_Shiwa, edited by Sunny",
+      "id": "466968658997149706"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_RIPPLE": [
+      "#8FD80618",
+      "#8FD80618",
+      "#8FD80618"
+    ],
+    "ACTIVITY_CARD_BACKGROUND": [
+      "#F83838",
+      "#AF2323",
+      "#F83838"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#0E0E0F",
+      "#0E0E0F",
+      "#0E0E0F"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#90D80615",
+      "#8c8c8c12",
+      "#90D80615"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#90D80615",
+      "#8c8c8c12",
+      "#90D80615"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#90D80615",
+      "#8c8c8c12",
+      "#90D80615"
+    ],
+    "BACKGROUND_MESSAGE_AUTOMOD": [
+      "#f23f430d",
+      "#f23f430d",
+      "#f23f430d"
+    ],
+    "BACKGROUND_MESSAGE_AUTOMOD_HOVER": [
+      "#f23f431a",
+      "#f23f431a",
+      "#f23f431a"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000",
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#000000",
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#90D806",
+      "#90D806",
+      "#90D806"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#8c8c8c12",
+      "#8c8c8c12",
+      "#8c8c8c12"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#90D80614",
+      "#000000",
+      "#90D80614"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#90D80614",
+      "#000000",
+      "#90D80614"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#90D80695",
+      "#90D80695",
+      "#90D80695"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#0B0B0C",
+      "#dbdee1",
+      "#000000"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000",
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#0f0f10",
+      "#0f0f10",
+      "#0f0f10"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#467200",
+      "#467200",
+      "#467200"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#0C0B0C",
+      "#0C0B0C",
+      "#0C0B0C"
+    ],
+    "BG_BACKDROP": [
+      "#000000cc",
+      "#000000cc",
+      "#000000cc"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#000000",
+      "#000000",
+      "#000000"
+    ],
+    "BG_SURFACE_OVERLAY_TMP": [
+      "#0B0B0C",
+      "#0B0B0C",
+      "#0B0B0C"
+    ],
+    "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
+      "#0B0B0C",
+      "#dbdee1",
+      "#000000"
+    ],
+    "BUTTON_OUTLINE_DANGER_BORDER":
