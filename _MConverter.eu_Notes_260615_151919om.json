@@ -1,0 +1,41 @@
+{
+"name": "Darkened Acid AMOLED",
+"description": "A collection of dark themes with colorful accents for Revenge.",
+"author": "Purple-EyeZ",
+"background": {
+"url": "https://raw.githubusercontent.com/SnorlaxBender/my-backround/main/firewatch-v0-c3hx3gdkzda21.jpg",
+"blur": 0,
+"alpha": 0.35
+},
+"semanticColors": {
+"BACKGROUND_MOBILE_PRIMARY": ["#000000bb"],
+"BACKGROUND_MOBILE_SECONDARY": ["#000000cc"],
+"BACKGROUND_MODIFIER_ACCENT": ["#2ecc71"],
+"BACKGROUND_ACCENT": ["#2ecc71"],
+"BG_BACKDROP": ["#000000aa"],
+"PANEL_BG": ["#000000cc"],
+"TYPING_INDICATOR_BG": ["#000000cc"],
+"ALERT_BG": ["#000000ee"],
+"TEXT_BRAND": ["#2ecc71"],
+"TEXT_LINK": ["#2ecc71"],
+"TEXT_ONLINE": ["#2ecc71"],
+"CONTROL_BRAND_FOREGROUND": ["#2ecc71"],
+"HEADER_PRIMARY": ["#ffffff"],
+"HEADER_SECONDARY": ["#ffffffcc"],
+"TEXT_NORMAL": ["#dcddde"],
+"TEXT_MUTED": ["#ffffff88"],
+"INTERACTION_ANIMATED_BUTTON_BACKGROUND": ["#2ecc71"],
+"REDESIGN_BUTTON_PRIMARY_BACKGROUND": ["#2ecc71"],
+"REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": ["#27ae60"],
+"REDESIGN_BUTTON_PRIMARY_TEXT": ["#000000"],
+"REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#000000bb"],
+"REDESIGN_BUTTON_SECONDARY_TEXT": ["#ffffff"],
+"REDESIGN_CHAT_INPUT_BACKGROUND": ["#000000aa"],
+"REDESIGN_INPUT_CONTROL_ACTIVE_BG": ["#000000cc"]
+},
+"rawColors": {
+"brand": "#2ecc71",
+"primary": "#000000"
+},
+"spec": 2
+}
